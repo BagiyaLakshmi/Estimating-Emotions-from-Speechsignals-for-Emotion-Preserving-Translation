@@ -15,8 +15,8 @@ conda activate pycp
 ```
 pip install jupyterlab
 ```
+- to open Jupyterlab 
 
 ```
-# to open Jupyterlab 
 jupyter lab
 ```
