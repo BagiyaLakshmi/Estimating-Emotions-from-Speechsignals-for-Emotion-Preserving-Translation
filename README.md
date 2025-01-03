@@ -54,7 +54,7 @@ python app.py
 ## Contributors
 
 - Bagiya Lakshmi ([GitHub](https://github.com/bagiyalakshmi))
-- Cynddia Balamurugan ([GitHub](https://github.com/bagiyalakshmi))
+- Cynddia Balamurugan ([GitHub](https://github.com/Cynddia))
 - Harini C J  ([GitHub](https://github.com/Harinijayagopinath))
 - Chunduri Suhasini ([GitHub](https://github.com/Suhasini02))
 
